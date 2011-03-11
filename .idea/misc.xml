@@ -20,10 +20,21 @@
     <option name="LOCALE" />
     <option name="OPEN_IN_BROWSER" value="true" />
   </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../groovy-beans/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state />
     </entry>
+  </component>
+  <component name="ProjectResources">
+    <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_5" assert-keyword="true" jdk-15="true" project-jdk-name="1.6.0_22" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
